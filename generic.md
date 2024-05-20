@@ -2,7 +2,7 @@
 layout: post
 title: Photocatalytic foil for H2 production
 description: Collection of energies
-image: assets/images/Fig1.png
+image: assets/images/Fig1.PNG
 nav-menu: true
 ---
 
