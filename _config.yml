@@ -44,3 +44,4 @@ exclude:
 - README.md 
 - all_posts.md
 - elements.md
+- landing.md
