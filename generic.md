@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Photocatalytic foil for hydrogen production
+title: Photocatalytic foil for H2 production
 description: Collection of energies
-image: assets/images/pic11.jpg
+image: assets/images/Fig1.png
 nav-menu: true
 ---
 
