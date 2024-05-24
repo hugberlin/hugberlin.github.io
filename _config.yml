@@ -1,6 +1,6 @@
 # site settings
-title: Hug
-subtitle: Berlin
+title: HK # Hug
+subtitle: # Berlin
 email: hughydrogen@gmail.com
 description: We can make it. We are HUG. #A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "" #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
