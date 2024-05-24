@@ -45,3 +45,6 @@ exclude:
 - all_posts.md
 - elements.md
 - landing.md
+- index.md
+- generic.md
+- generic2.md
